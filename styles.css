@@ -1,0 +1,17 @@
+:root{
+    --dark-blue: #020659;
+    --med-dk-blue: #020873;
+    --lt-dk-blue: #030abc;
+    --lt-sky-blue: #0d8dfb;
+    --bt-blue: #2104d9;
+    --dk-sky-blue: #2699fb;
+    --purple: #590242;
+
+    --font: Verdana, Geneva, Tahoma, sans-serif;   
+}
+/* font-sizes: 
+h1 {font-size:1.25em;}
+h2, h3 {font-size: 1em;}
+p, dl, dd {font-size: 1em;}
+footer p {font-size: .75em;} */
+
